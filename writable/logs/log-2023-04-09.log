@@ -1,0 +1,113 @@
+CRITICAL - 2023-04-09 00:30:04 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 00:30:45 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 00:30:47 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 00:30:49 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 00:31:05 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 00:31:14 --> Function name must be a string
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#3 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#4 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#5 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-09 02:02:05 --> Undefined index: no_faktur
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-04-09 02:04:03 --> Unknown column 'tgl_jual' in 'field list'
+CRITICAL - 2023-04-09 02:04:03 --> Unknown column 'tgl_jual' in 'field list'
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\app\Models\ModelPenjualan.php(48): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(115): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-09 02:06:45 --> Unknown column 'tgl_jual' in 'field list'
+CRITICAL - 2023-04-09 02:06:45 --> Unknown column 'tgl_jual' in 'field list'
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\app\Models\ModelPenjualan.php(48): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(115): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-09 02:07:58 --> Unknown column 'dibayar' in 'field list'
+CRITICAL - 2023-04-09 02:07:58 --> Unknown column 'dibayar' in 'field list'
+#0 C:\xampp\htdocs\ci4-sistemkasir\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\app\Models\ModelPenjualan.php(43): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(115): App\Models\ModelPenjualan->InsertJual(Array)
+#6 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-09 02:11:53 --> Undefined variable: bayar
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Penjualan.php(111): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 111, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

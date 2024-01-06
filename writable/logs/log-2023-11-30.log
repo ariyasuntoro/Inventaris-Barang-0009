@@ -1,0 +1,19 @@
+ERROR - 2023-11-30 09:11:55 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+CRITICAL - 2023-11-30 09:28:39 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(74): CodeIgniter\Model->__call('getStockById', Array)
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->InsertCart()
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-30 09:30:26 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(74): CodeIgniter\Model->__call('getStockById', Array)
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->InsertCart()
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

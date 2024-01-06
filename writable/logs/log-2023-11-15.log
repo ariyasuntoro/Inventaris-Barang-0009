@@ -1,0 +1,130 @@
+CRITICAL - 2023-11-15 13:34:57 --> Undefined variable: maxStock
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(30): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:37:00 --> Undefined variable: ModelPeminjam
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:37:25 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Peminjam')
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Peminjam')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:38:15 --> Undefined variable: ModelPeminjam
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:38:42 --> Undefined variable: barangid
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:40:03 --> Undefined variable: kode_barang
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:40:14 --> Too few arguments to function App\Models\ModelPeminjam::getMaxStock(), 0 passed in C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php on line 29 and exactly 1 expected
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(29): App\Models\ModelPeminjam->getMaxStock()
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-15 13:46:23 --> Undefined variable: maxStock
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(31): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:49:01 --> Undefined variable: stok
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(31): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:50:00 --> Array to string conversion
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(32): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:50:06 --> Array to string conversion
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(32): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:50:27 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(29): CodeIgniter\Model->__call('AllData', Array)
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-15 13:51:07 --> Array to string conversion
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(32): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-15 13:51:13 --> Array to string conversion
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(32): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-15 13:52:57 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-11-15 13:53:02 --> The cart array must contain a product ID, quantity, price, and name.

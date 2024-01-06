@@ -1,0 +1,147 @@
+CRITICAL - 2023-04-15 23:17:24 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:25 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:27 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:27 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:27 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:27 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:28 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:28 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:29 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:29 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:29 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:30 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:30 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:17:30 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:35 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:36 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:36 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:36 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:37 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:37 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-04-15 23:20:40 --> Undefined variable: tahun
+#0 C:\xampp\htdocs\ci4-sistemkasir\app\Controllers\Laporan.php(92): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 92, Array)
+#1 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#2 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\ci4-sistemkasir\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemkasir\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

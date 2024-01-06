@@ -1,0 +1,95 @@
+CRITICAL - 2023-10-18 11:29:56 --> Undefined index: Harga_barang
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_barang_masuk.php(121): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 121, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_barang_masuk', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_template.php(251): view('v_barang_masuk')
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_template', Array, true)
+#8 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(29): view('v_template', Array)
+#9 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->index()
+#10 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#11 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-10-18 11:34:30 --> Class 'App\Models\ModelProduk' not found
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(809): App\Controllers\Laporan->__construct()
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-18 11:53:01 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2023-10-18 11:53:01 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelBarangMasuk.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(60): App\Models\ModelBarangMasuk->InsertData(Array)
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->InsertData()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-10-18 11:58:50 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2023-10-18 11:58:50 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelBarangMasuk.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(60): App\Models\ModelBarangMasuk->InsertData(Array)
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->InsertData()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-10-18 12:00:38 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2023-10-18 12:00:38 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelBarangMasuk.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(53): App\Models\ModelBarangMasuk->InsertData(Array)
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->InsertData()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-10-18 12:04:24 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2023-10-18 12:04:24 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelBarangMasuk.php(18): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(51): App\Models\ModelBarangMasuk->InsertData(Array)
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->InsertData()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-18 12:16:16 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Barangmasuk')
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Barangmasuk')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-18 12:22:39 --> Undefined variable: k
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_barang_masuk.php(160): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 160, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_barang_masuk', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_template.php(251): view('v_barang_masuk')
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_template', Array, true)
+#8 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Barangmasuk.php(29): view('v_template', Array)
+#9 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Barangmasuk->index()
+#10 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Barangmasuk))
+#11 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}

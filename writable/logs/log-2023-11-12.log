@@ -1,0 +1,82 @@
+CRITICAL - 2023-11-12 10:04:12 --> Undefined variable: value
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(30): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-12 10:06:27 --> Undefined index: stok
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\v_peminjam.php(170): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 170, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('v_peminjam', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(30): view('v_peminjam', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->index()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-12 11:05:11 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+CRITICAL - 2023-11-12 11:15:24 --> Undefined index: nama_user
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_tabel_laporan_bulanan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_tabel...', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Laporan.php(125): view('laporan/v_tabel...', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-12 11:15:27 --> Undefined index: nama_user
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_tabel_laporan_bulanan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_tabel...', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Laporan.php(125): view('laporan/v_tabel...', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-12 11:15:28 --> Undefined index: nama_user
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_tabel_laporan_bulanan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_tabel...', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Laporan.php(125): view('laporan/v_tabel...', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-12 11:15:29 --> Undefined index: nama_user
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_tabel_laporan_bulanan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_tabel...', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Laporan.php(125): view('laporan/v_tabel...', Array)
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Laporan->ViewLaporanBulanan()
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-12 11:15:30 --> Undefined index: no_peminjam
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_print_lap_bulanan.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_print...', Array, true)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Views\laporan\v_template_print_laporan.php(51): view('laporan/v_print...')
+#5 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Common.php(1089): CodeIgniter\View\View->render('laporan/v_templ...', Array, true)
+#8 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Laporan.php(142): view('laporan/v_templ...', Array)
+#9 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Laporan->PrintLaporanBulanan('11', '2023')
+#10 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#11 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}

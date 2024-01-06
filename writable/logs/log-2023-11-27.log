@@ -1,0 +1,22 @@
+CRITICAL - 2023-11-27 13:53:59 --> syntax error, unexpected '$stock' (T_VARIABLE), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Peminjam')
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Peminjam')
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-27 13:55:43 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+CRITICAL - 2023-11-27 13:55:53 --> Undefined property: App\Controllers\Peminjam::$input
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 83, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->get_stokB()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-27 13:56:03 --> Undefined property: App\Controllers\Peminjam::$input
+#0 C:\xampp\htdocs\ci4-inventarisbarangsmp\app\Controllers\Peminjam.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 83, Array)
+#1 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(832): App\Controllers\Peminjam->get_stokB()
+#2 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#3 C:\xampp\htdocs\ci4-inventarisbarangsmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-inventarisbarangsmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

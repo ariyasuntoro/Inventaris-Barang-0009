@@ -1,0 +1,9 @@
+CRITICAL - 2023-09-06 13:55:40 --> Undefined property: CodeIgniterCart\Cart::$productBrandSafe
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Libraries\ci4cart\src\(172): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 172, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\app\Libraries\ci4cart\src\Cart.php(99): CodeIgniterCart\Cart->_insert(Array)
+#2 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Peminjam.php(65): CodeIgniterCart\Cart->insert(Array)
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Peminjam->InsertCart()
+#4 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Peminjam))
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

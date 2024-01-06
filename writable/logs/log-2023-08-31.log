@@ -1,0 +1,508 @@
+CRITICAL - 2023-08-31 14:40:43 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:40:45 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:40:46 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:40:47 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:40:47 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-08-31 14:40:49 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+CRITICAL - 2023-08-31 14:40:59 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:02 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:02 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:03 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:03 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:08 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:09 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:09 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:09 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:12 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:13 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:13 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:13 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:14 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:14 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:15 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:15 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:15 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:15 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:16 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:16 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:16 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:16 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:16 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:41:17 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:42:57 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:42:58 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:42:59 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:42:59 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:42:59 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:43:52 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:43:53 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:43:53 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:40 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:42 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:43 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:43 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:43 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:43 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 14:44:44 --> Undefined variable: produk
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->CekProduk()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-08-31 14:53:22 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-08-31 14:53:26 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-08-31 15:00:14 --> The cart array must contain a product ID, quantity, price, and name.
+CRITICAL - 2023-08-31 15:02:47 --> A non-numeric value encountered
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 106, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 15:07:43 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(141): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 141, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:08:40 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(141): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 141, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:08:44 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(141): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 141, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:09:32 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(141): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 141, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:09:34 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(141): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 141, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:10:21 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(311): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 311, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-08-31 15:11:05 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-08-31 15:11:18 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-08-31 15:13:40 --> The cart array must contain a product ID, quantity, price, and name.
+ERROR - 2023-08-31 15:22:08 --> The cart array must contain a product ID, quantity, price, and name.
+CRITICAL - 2023-08-31 15:26:04 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(320): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 320, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:27:03 --> Undefined variable: grand_total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(377): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 377, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-08-31 15:28:21 --> Undefined variable: kembalian
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 117, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->SimpanTransaksi()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-08-31 15:36:23 --> Undefined index: harga_jual
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_penjualan.php(288): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 288, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_penjualan', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Penjualan.php(25): view('v_penjualan', Array)
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Penjualan->index()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-08-31 16:09:56 --> Unknown column 'tbl_rinci_jual.untung' in 'field list'
+CRITICAL - 2023-08-31 16:09:56 --> Unknown column 'tbl_rinci_jual.untung' in 'field list'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `tbl_jua...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_jua...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_jua...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_jua...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelAdmin.php(31): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Admin.php(22): App\Models\ModelAdmin->Grafik()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-08-31 16:11:43 --> Unknown column 'tbl_rinci_jual.untung' in 'field list'
+CRITICAL - 2023-08-31 16:11:43 --> Unknown column 'tbl_rinci_jual.untung' in 'field list'
+#0 C:\xampp\htdocs\ci4-sistemcoba\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `tbl_jua...', 0)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_jua...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_jua...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_jua...', Array, false)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Models\ModelAdmin.php(31): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Admin.php(22): App\Models\ModelAdmin->Grafik()
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-31 16:13:08 --> Undefined variable: tgl
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_admin.php(76): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 76, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_admin', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_template.php(239): view('v_admin')
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_template', Array, true)
+#8 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Admin.php(31): view('v_template', Array)
+#9 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#10 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-08-31 16:13:56 --> json_encode() expects at least 1 parameter, 0 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'json_encode() e...', 'C:\\xampp\\htdocs...', 76, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_admin.php(76): json_encode()
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_admin', Array, true)
+#5 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_template.php(239): view('v_admin')
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#8 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_template', Array, true)
+#9 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Admin.php(31): view('v_template', Array)
+#10 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#11 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#12 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-08-31 16:14:12 --> Undefined variable: total
+#0 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_admin.php(79): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 79, Array)
+#1 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_admin', Array, true)
+#4 C:\xampp\htdocs\ci4-sistemcoba\app\Views\v_template.php(239): view('v_admin')
+#5 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\ci4-sistemcoba\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\ci4-sistemcoba\system\Common.php(1089): CodeIgniter\View\View->render('v_template', Array, true)
+#8 C:\xampp\htdocs\ci4-sistemcoba\app\Controllers\Admin.php(31): view('v_template', Array)
+#9 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(832): App\Controllers\Admin->index()
+#10 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\ci4-sistemcoba\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ci4-sistemcoba\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
